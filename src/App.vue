@@ -6,7 +6,6 @@
 
 <script>
 export default {
-  name: "app2",
   data() {
     return {
       count: 2
