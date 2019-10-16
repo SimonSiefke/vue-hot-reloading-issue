@@ -31,7 +31,7 @@ Inside the script section inside `App.vue`, do the following:
 
 ## Expected Behaviour
 
-After doing the edits, the App looks as expected since it is the same code as in the first picture.
+After doing the edits, the App looks normal since it is the same code as in the first picture.
 
 ## Current Behaviour
 
